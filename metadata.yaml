@@ -1,0 +1,29 @@
+_repo: Contes-Nouvelles-et-Recits_12566
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Janin, Jules Gabriel
+    alias: Janin, J. (Jules)
+    birthdate: 1804
+    deathdate: 1874
+    gutenberg_agent_id: '4431'
+    url: http://www.gutenberg.org/2009/agents/4431
+    wikipedia: http://en.wikipedia.org/wiki/Jules_Janin
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12566'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, French'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Tout de bon coeur -- L'Épagneul maître d'école -- Mlle de Malboissière
+  -- Mlle de Launay -- Zémire -- Versailles -- Le Poète en voyage -- La reine Marguerite.
+title: Contes, Nouvelles et Recits
+url: http://www.gutenberg.org/ebooks/12566
